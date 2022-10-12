@@ -5,10 +5,7 @@
 
 ### Language and Tools:
 
-![jira](https://user-images.githubusercontent.com/96816498/195413635-39c33092-6224-4083-b4d9-81b425aff2b8.png)|![confluence](https://github.com/arteeem13/arteeem13/blob/main/picture/confluence.png)|Allure|TestRail|
-|DevTools|Swagger|Kibana|
-|Postman|Fiddler|Charles|Jmeter|Kafka|RabbitMQ|
-|Java|JS on postman|Newman reports|
+![tools](https://user-images.githubusercontent.com/96816498/195422676-b4a9c5da-eaeb-4fb9-ad55-10ae5069da5e.png)
 
 
 ### Testing Documentation
