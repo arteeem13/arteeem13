@@ -5,7 +5,7 @@
 
 ### Language and Tools:
 
-|![atlassian-jira-logo-large](https://user-images.githubusercontent.com/96816498/195409571-4118cfcc-12b1-4cb8-ad3c-925d91b5f493.png)|Confluence|Allure|TestRail|
+|![jira](https://user-images.githubusercontent.com/96816498/195412394-9e808dc6-7399-440a-a7d9-042dbb2fad3b.png)|Confluence|Allure|TestRail|
 |DevTools|Swagger|Kibana|
 |Postman|Fiddler|Charles|Jmeter|Kafka|RabbitMQ|
 |Java|JS on postman|Newman reports|
