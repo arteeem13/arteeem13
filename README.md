@@ -1,5 +1,5 @@
 [![Header](https://github.com/arteeem13/arteeem13/blob/main/picture/logo.PNG)](facebook)
-## I'm a manual QA Engineer / junior QA Automation. 
+## I'm a manual QA Engineer / Junior QA Automation. 
 
 ## [My resume](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
 
