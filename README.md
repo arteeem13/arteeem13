@@ -6,7 +6,7 @@
 
 ### Language and Tools:
 
-![tools](https://user-images.githubusercontent.com/96816498/195422676-b4a9c5da-eaeb-4fb9-ad55-10ae5069da5e.png)(https://www.facebook.com/profile.php?id=100006304240925)
+![tools](https://user-images.githubusercontent.com/96816498/195422676-b4a9c5da-eaeb-4fb9-ad55-10ae5069da5e.png)
 
 
 ### Testing Documentation
