@@ -1,4 +1,4 @@
-[![Header](![logo](https://user-images.githubusercontent.com/96816498/195423846-fe942958-08b9-4285-94e0-a00fedfa6878.png))](facebook)
+[![Header](![logo](https://user-images.githubusercontent.com/96816498/195423846-fe942958-08b9-4285-94e0-a00fedfa6878.png))(facebook)
 ## I'm a manual QA Engineer / Junior QA Automation. 
 
 ## [My resume](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
