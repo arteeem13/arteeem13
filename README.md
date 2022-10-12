@@ -5,7 +5,7 @@
 
 ### Language and Tools:
 
-|Jira![img.png](img.png)|Confluence|Allure|TestRail|
+|Jira|Confluence|Allure|TestRail|
 |DevTools|Swagger|Kibana|
 |Postman|Fiddler|Charles|Jmeter|Kafka|RabbitMQ|
 |Java|JS on postman|Newman reports|
