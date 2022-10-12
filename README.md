@@ -1,4 +1,4 @@
-[![Header](https://github.com/arteeem13/arteeem13/blob/main/picture/logo.PNG)](facebook)
+[![Header](https://github.com/arteeem13/arteeem13/blob/main/picture/logo.PNG)]([facebook](https://www.facebook.com/profile.php?id=100006304240925))
 
 ## I'm a manual QA Engineer / Junior QA Automation. 
 
@@ -6,7 +6,7 @@
 
 ### Language and Tools:
 
-![tools](https://user-images.githubusercontent.com/96816498/195422676-b4a9c5da-eaeb-4fb9-ad55-10ae5069da5e.png)
+![tools](https://user-images.githubusercontent.com/96816498/195422676-b4a9c5da-eaeb-4fb9-ad55-10ae5069da5e.png)([facebook](https://www.facebook.com/profile.php?id=100006304240925))
 
 
 ### Testing Documentation
