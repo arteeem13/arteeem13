@@ -5,7 +5,7 @@
 
 ### Language and Tools:
 
-![jira](https://user-images.githubusercontent.com/96816498/195413635-39c33092-6224-4083-b4d9-81b425aff2b8.png)|<img width="54" alt="confluence" src="https://user-images.githubusercontent.com/96816498/195414966-63069aef-f567-44e1-a881-ec6f746c364a.png">|Allure|TestRail|
+![jira](https://user-images.githubusercontent.com/96816498/195413635-39c33092-6224-4083-b4d9-81b425aff2b8.png)|![confluence](<img width="54" alt="confluence" src="https://user-images.githubusercontent.com/96816498/195415273-fddeb9ed-8acf-4bf4-bb62-c2701de4414e.png">)|Allure|TestRail|
 |DevTools|Swagger|Kibana|
 |Postman|Fiddler|Charles|Jmeter|Kafka|RabbitMQ|
 |Java|JS on postman|Newman reports|
