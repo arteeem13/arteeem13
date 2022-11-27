@@ -1,4 +1,4 @@
-[![Header](https://github.com/arteeem13/arteeem13/blob/main/picture/logo.PNG)](https://www.facebook.com/profile.php?id=100006304240925)
+[![Header](https://github.com/arteeem13/arteeem13/blob/main/picture/logo.PNG)](https://www.facebook.com/)
 
 ## I'm a manual QA Engineer / Junior QA Automation. 
 
@@ -11,8 +11,8 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists](https://github.com/)
+- [Test-Suites and Test-Cases](https://github.com/)
+- [Bug-Reports](https://github.com/)
+- [SQL Queries](https://github.com/)
+- [Postman Collections](https://github.com/)
