@@ -4,13 +4,13 @@
 
 ### Language and Tools:
 
-![tools](https://github.com/arteeem13/arteeem13/blob/main/picture/logoSkills.PNG)
+![tools](https://github.com/arteeem13/arteeem13/blob/main/pictures/logoSkills.PNG)
 
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/arteeem13/arteeem13/blob/main/picture/pageUnderConstruction.png)
-- [Test-Suites and Test-Cases](https://github.com/https://github.com/arteeem13/arteeem13/blob/main/picture/pageUnderConstruction.png)
-- [Bug-Reports](https://github.com/arteeem13/arteeem13/blob/main/picture/pageUnderConstruction.png)
-- [SQL Queries](https://github.com/arteeem13/arteeem13/blob/main/picture/pageUnderConstruction.png)
-- [Postman Collections](https://github.com/arteeem13/arteeem13/blob/main/picture/pageUnderConstruction.png)
+- [Checklists](https://github.com/arteeem13/arteeem13/blob/main/pictures/pageUnderConstruction.png)
+- [Test-Suites and Test-Cases](https://github.com/https://github.com/arteeem13/arteeem13/blob/main/pictures/pageUnderConstruction.png)
+- [Bug-Reports](https://github.com/arteeem13/arteeem13/blob/main/pictures/pageUnderConstruction.png)
+- [SQL Queries](https://github.com/arteeem13/arteeem13/blob/main/pictures/pageUnderConstruction.png)
+- [Postman Collections](https://github.com/arteeem13/arteeem13/blob/main/pictures/pageUnderConstruction.png)
