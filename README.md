@@ -1,4 +1,4 @@
-[![Header](Manual QA Engineer / Junior QA Automation)](https://www.facebook.com/)
+# [Manual QA Engineer / Junior QA Automation](https://www.facebook.com/)
 
 ## [CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
 
