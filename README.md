@@ -2,7 +2,7 @@
 
 ## I'm a manual QA Engineer / Junior QA Automation. 
 
-## [My resume](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+## [My resume](![img.png](img.png))
 
 ### Language and Tools:
 
@@ -11,8 +11,8 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/)
-- [Test-Suites and Test-Cases](https://github.com/)
-- [Bug-Reports](https://github.com/)
-- [SQL Queries](https://github.com/)
-- [Postman Collections](https://github.com/)
+- [Checklists](![img.png](img.png))
+- [Test-Suites and Test-Cases](![img.png](img.png))
+- [Bug-Reports](![img.png](img.png))
+- [SQL Queries](![img.png](img.png))
+- [Postman Collections](![img.png](img.png))
