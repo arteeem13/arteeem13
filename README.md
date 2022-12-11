@@ -15,7 +15,7 @@
 ![Tools](https://github.com/arteeem13/arteeem13/blob/main/pictures/logoSkills.PNG)
 
 
-### ***Testing Documentation***
+### ***Testing documentation***
 
 - [Checklists](https://raw.githubusercontent.com/arteeem13/arteeem13/main/pictures/pageUnderConstruction.png)
 - [Test-Suites and Test-Cases](https://raw.githubusercontent.com/arteeem13/arteeem13/main/pictures/pageUnderConstruction.png)
