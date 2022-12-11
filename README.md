@@ -1,6 +1,4 @@
-[![Header](https://github.com/arteeem13/arteeem13/blob/main/picture/logo.PNG)](https://www.facebook.com/)
-
-## I'm a manual QA Engineer / Junior QA Automation. 
+[![Header](Manual QA Engineer / Junior QA Automation)](https://www.facebook.com/)
 
 ## [CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
 
