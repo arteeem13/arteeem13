@@ -9,8 +9,8 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/arteeem13/arteeem13/blob/main/pictures/pageUnderConstruction.png)
-- [Test-Suites and Test-Cases](https://github.com/https://github.com/arteeem13/arteeem13/blob/main/pictures/pageUnderConstruction.png)
-- [Bug-Reports](https://github.com/arteeem13/arteeem13/blob/main/pictures/pageUnderConstruction.png)
-- [SQL Queries](https://github.com/arteeem13/arteeem13/blob/main/pictures/pageUnderConstruction.png)
-- [Postman Collections](https://github.com/arteeem13/arteeem13/blob/main/pictures/pageUnderConstruction.png)
+- [Checklists](https://raw.githubusercontent.com/arteeem13/arteeem13/main/pictures/pageUnderConstruction.png)
+- [Test-Suites and Test-Cases](https://raw.githubusercontent.com/arteeem13/arteeem13/main/pictures/pageUnderConstruction.png)
+- [Bug-Reports](https://raw.githubusercontent.com/arteeem13/arteeem13/main/pictures/pageUnderConstruction.png)
+- [SQL Queries](https://raw.githubusercontent.com/arteeem13/arteeem13/main/pictures/pageUnderConstruction.png)
+- [Postman Collections](https://raw.githubusercontent.com/arteeem13/arteeem13/main/pictures/pageUnderConstruction.png)
