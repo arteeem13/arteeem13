@@ -1,8 +1,8 @@
 ## [***Hi :wave:! I'm Middle manual QA Engineer / Junior AQA Engineer***](https://www.facebook.com/)
 
-### :fire:[***CV***](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+### :fire:[***My CV***](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
 
-## :fire:***Skills***
+## :fire:***My skills***
 
 ### :heavy_plus_sign: functional and non-functional testing
 ### :heavy_plus_sign: API testing
@@ -10,7 +10,7 @@
 ### :heavy_plus_sign: test design techniques
 ### :heavy_plus_sign: testing theory
 
-### :fire:***Languages and tools***
+## :fire:***Languages and tools***
 
 ![Tools](https://github.com/arteeem13/arteeem13/blob/main/pictures/logoSkills.PNG)
 
