@@ -1,24 +1,24 @@
-## [***Middle manual QA Engineer / Junior AQA Engineer***](https://www.facebook.com/)
+## [***Hi :wave:! I'm Middle manual QA Engineer / Junior AQA Engineer***](https://www.facebook.com/)
 
-### [***CV***](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+### :fire:[***CV***](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
 
-### ***Skills***
+### :fire:***Skills***
 
-- functional and non-functional testing
-- API testing
-- automation tests
-- test design techniques
-- testing theory
+:heavy_plus_sign: functional and non-functional testing
+:heavy_plus_sign: API testing
+:heavy_plus_sign: automation tests
+:heavy_plus_sign: test design techniques
+:heavy_plus_sign: testing theory
 
-### ***Languages and tools***
+### :fire:***Languages and tools***
 
 ![Tools](https://github.com/arteeem13/arteeem13/blob/main/pictures/logoSkills.PNG)
 
 
-### ***Testing documentation***
+### :fire:***Testing documentation***
 
-- [Checklists](https://raw.githubusercontent.com/arteeem13/arteeem13/main/pictures/pageUnderConstruction.png)
-- [Test-Suites and Test-Cases](https://raw.githubusercontent.com/arteeem13/arteeem13/main/pictures/pageUnderConstruction.png)
-- [Bug-Reports](https://raw.githubusercontent.com/arteeem13/arteeem13/main/pictures/pageUnderConstruction.png)
-- [SQL Queries](https://raw.githubusercontent.com/arteeem13/arteeem13/main/pictures/pageUnderConstruction.png)
-- [Postman Collections](https://raw.githubusercontent.com/arteeem13/arteeem13/main/pictures/pageUnderConstruction.png)
+:heavy_check_mark: [Checklists](https://github.com/arteeem13/arteeem13/blob/main/Check-list.pdf)
+:clock8: [Test-Suites and Test-Cases](https://raw.githubusercontent.com/arteeem13/arteeem13/main/pictures/pageUnderConstruction.png)
+:clock8: [Bug-Reports](https://raw.githubusercontent.com/arteeem13/arteeem13/main/pictures/pageUnderConstruction.png)
+:heavy_check_mark: [SQL Queries](https://github.com/arteeem13/arteeem13/blob/main/SQL.pdf)
+:clock8: [Postman Collections](https://raw.githubusercontent.com/arteeem13/arteeem13/main/pictures/pageUnderConstruction.png)
