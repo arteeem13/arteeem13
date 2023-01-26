@@ -1,7 +1,7 @@
-## [***Hi :wave:! I'm Middle manual QA Engineer / Junior AQA Engineer***](https://www.facebook.com/)
-
-### :fire:[***My CV***](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
-
+## [***Hi :wave:! I'm Middle manual QA Engineer / Junior AQA Engineer***](https://drive.google.com/file/d/1N3R2RimbpmIaYK57mg7Qdf8HXn0CSiwL/view?usp=share_link)
+# 
+### :fire:[***My CV***](https://drive.google.com/file/d/1N3R2RimbpmIaYK57mg7Qdf8HXn0CSiwL/view?usp=share_link)
+# 
 ## :fire:***My skills***
 
 ### :heavy_plus_sign: functional and non-functional testing
@@ -9,12 +9,12 @@
 ### :heavy_plus_sign: automation tests
 ### :heavy_plus_sign: test design techniques
 ### :heavy_plus_sign: testing theory
-
+# 
 ## :fire:***Languages and tools***
 
 ![Tools](https://github.com/arteeem13/arteeem13/blob/main/pictures/logoSkills.PNG)
 
-
+# 
 ## :fire:***Testing documentation***
 
 ### :heavy_check_mark: [Checklists](https://github.com/arteeem13/arteeem13/blob/main/Check-list.pdf)
