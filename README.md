@@ -25,4 +25,4 @@
 
 # 
 ## :fire: ***My last project***
-### :books: [Web tests for bookmate.com](https://github.com/arteeem13/bookmate-tests)
+### :books: [web tests for bookmate.com](https://github.com/arteeem13/bookmate-tests)
