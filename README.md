@@ -1,6 +1,6 @@
 ## [***Hi :wave:! I'm Middle manual QA Engineer / Junior AQA Engineer***](https://drive.google.com/file/d/1N3R2RimbpmIaYK57mg7Qdf8HXn0CSiwL/view?usp=share_link)
 # 
-### :fire: [***My CV***](https://drive.google.com/file/d/1N3R2RimbpmIaYK57mg7Qdf8HXn0CSiwL/view?usp=share_link)
+### :fire: [***My CV***](https://drive.google.com/file/d/19Sck7Fokch-jSh9BfcZ_jMR3_s7Q5Xbp/view?usp=share_link)
 # 
 ## :fire: ***My skills***
 
